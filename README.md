@@ -12,7 +12,14 @@ This repository provides a set of tools and scripts for processing volumetric me
 
 To get started, you need to set up the environment with the required dependencies. Follow these steps:
 
-1. **Clone the Repository:**
+**Clone the Repository:**
    ```bash
    git clone https://github.com/asheibanifard/Direct_Volume_Rendering-DVR-.git
    cd Direct_Volume_Rendering-DVR-
+## Dataset
+
+You can download datasets for this project from the following site:
+
+- **Open SciVis Datasets**: [klacansky.com/open-scivis-datasets](https://klacansky.com/open-scivis-datasets/)
+
+Ensure you download the volumetric data files compatible with the expected format for use in this project.
