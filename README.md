@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository provides a set of tools and scripts for processing volumetric data using Python. The project includes:
+This repository provides a set of tools and scripts for processing volumetric medical images using Python. The project includes:
 - **Data Loading**: Functions to load and preprocess volumetric data.
 - **Filtering**: Applying HU windowing filters to the data.
 - **Direct Volume Rendering (DVR)**: Techniques for rendering 3D data into 2D images.
@@ -14,5 +14,5 @@ To get started, you need to set up the environment with the required dependencie
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/asheibanifard/Direct_Volume_Rendering-DVR-.git
+   cd Direct_Volume_Rendering-DVR-
