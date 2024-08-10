@@ -16,6 +16,7 @@ To get started, you need to set up the environment with the required dependencie
    ```bash
    git clone https://github.com/asheibanifard/Direct_Volume_Rendering-DVR-.git
    cd Direct_Volume_Rendering-DVR-
+   ```
 ## Dataset
 
 You can download datasets for this project from the following site:
