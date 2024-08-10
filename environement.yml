@@ -1,0 +1,14 @@
+name: DVR
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9  # Specify Python version; adjust if needed
+  - numpy=1.23  # Adjust version as needed
+  - matplotlib=3.7  # Adjust version as needed
+  - pytorch=2.0  # Adjust version as needed; ensure compatibility with CUDA if required
+  - cudatoolkit=11.7  # Adjust version as needed for GPU support; remove if not using CUDA
+  - pip
+  - pip:
+    - data_utils  # Placeholder; replace with actual package name if it's available on PyPI
+    - utils  # Placeholder; replace with actual package name if it's available on PyPI
